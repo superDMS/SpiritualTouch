@@ -1,4 +1,4 @@
-# SpiritualTouch v1.23
+# SpiritualTouch v1.39
 
 介绍
 灵触Spiritual Touch 是一款全局随心触发各种命令的软件, 各种丰富手势组合, 全网最低消耗绘图开销算法, 并加入多项贴心功能.
