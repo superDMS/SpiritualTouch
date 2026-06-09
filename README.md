@@ -1,4 +1,4 @@
-# SpiritualTouch v1.63
+# SpiritualTouch v1.72
 
 介绍
 
